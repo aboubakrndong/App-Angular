@@ -1,0 +1,29 @@
+https://ultimateangular.com sur ce site il ya de super bon tuto sur l’univers angular !
+
+
+Bon, de tous les tutos que j’ai sauvegardé:
+1- https://angular.io/tutorial (on a tous démarré là, à mon avis)
+2- http://jasonwatmore.com/ (Jason Watmore: son blog traite de sujets précis)
+3- https://openclassrooms.com/courses/4668271-developpez-des-applications-web-avec-angular/5091266-creez-une-application-complete-avec-angular-et-firebase (Sans oublier le Site du zéro :sourire: )
+4- https://ng-bootstrap.github.io/#/getting-started (surtout une librairie que j’ai utilisé)
+5- https://www.udemy.com/angular-5/ (juste un peu) (modifié) 
+jasonwatmore.com
+Jason Watmore's Blog | A Web Developer in Sydney
+A web development blog
+	
+
+
+
+https://codecraft.tv/courses/angular/quickstart/overview/  
+
+https://blog.angular-university.io/angular-2-redux-ngrx-rxjs/  
+
+https://www.udemy.com/angular-5/  
+
+
+
+https://www.pluralsight.com/courses/angular-2-getting-started-update
+
+https://angular.io/tutorial  
+
+
