@@ -1,0 +1,6 @@
+ecma script
+jasmine framework
+protactor framework for angular , with selenium
+karma 
+augury for debugging angular
+banana in a box angular
